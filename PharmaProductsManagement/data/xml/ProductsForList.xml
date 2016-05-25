@@ -1,0 +1,242 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Products SYSTEM "XMLStructure.DTD">
+<Products>
+ <Product id="0">
+	<ProductName>Smecta</ProductName>
+	<ProductPrice>29.0</ProductPrice>
+	<ProductQuantity>0</ProductQuantity>
+	<ExpDate>2020-12-24</ExpDate>
+	<Category>
+		<CategoryId>23</CategoryId>
+		<CategoryName>Medicines</CategoryName>
+		<Company>
+			<CompanyName>Troyapharm</CompanyName>
+			<CompanyAddress>UK</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="1">
+	<ProductName>Acetylsalicylic acid</ProductName>
+	<ProductPrice>29.0</ProductPrice>
+	<ProductQuantity>6</ProductQuantity>
+	<ExpDate>2016-05-05</ExpDate>
+	<Category>
+		<CategoryId>10</CategoryId>
+		<CategoryName>Medicines</CategoryName>
+		<Company>
+			<CompanyName>AC Helcor</CompanyName>
+			<CompanyAddress>Germany</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="2">
+	<ProductName>Activit magneziu</ProductName>
+	<ProductPrice>2.0</ProductPrice>
+	<ProductQuantity>2</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>12</CategoryId>
+		<CategoryName>Vitamin-Supplements</CategoryName>
+		<Company>
+			<CompanyName>AC Helcor</CompanyName>
+			<CompanyAddress>Germany</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="3">
+	<ProductName>Aerosol device</ProductName>
+	<ProductPrice>4.0</ProductPrice>
+	<ProductQuantity>10</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>9</CategoryId>
+		<CategoryName>Medical-Devices</CategoryName>
+		<Company>
+			<CompanyName>Sc Liv Med</CompanyName>
+			<CompanyAddress>Romania</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="4">
+	<ProductName>Alcoholometer</ProductName>
+	<ProductPrice>3.0</ProductPrice>
+	<ProductQuantity>3</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>9</CategoryId>
+		<CategoryName>Medical-Devices</CategoryName>
+		<Company>
+			<CompanyName>Sc Liv Med</CompanyName>
+			<CompanyAddress>Romania</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="5">
+	<ProductName>ArtroHelp Forte</ProductName>
+	<ProductPrice>61.21</ProductPrice>
+	<ProductQuantity>30</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>4</CategoryId>
+		<CategoryName>Medicines</CategoryName>
+		<Company>
+			<CompanyName>MedDep</CompanyName>
+			<CompanyAddress>USA</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="6">
+	<ProductName>ArtroHelp Forte</ProductName>
+	<ProductPrice>61.21</ProductPrice>
+	<ProductQuantity>1000</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>43</CategoryId>
+		<CategoryName>Medicines</CategoryName>
+		<Company>
+			<CompanyName>Polfa - Pabianice</CompanyName>
+			<CompanyAddress>UK</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="7">
+	<ProductName>Centrum A</ProductName>
+	<ProductPrice>3000.0</ProductPrice>
+	<ProductQuantity>1</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>12</CategoryId>
+		<CategoryName>Vitamin-Supplements</CategoryName>
+		<Company>
+			<CompanyName>AC Helcor</CompanyName>
+			<CompanyAddress>Germany</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="8">
+	<ProductName>Centrum A</ProductName>
+	<ProductPrice>3000.0</ProductPrice>
+	<ProductQuantity>4</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>10</CategoryId>
+		<CategoryName>Vitamin-Supplements</CategoryName>
+		<Company>
+			<CompanyName>Troyapharm</CompanyName>
+			<CompanyAddress>UK</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="9">
+	<ProductName>Cream foundation</ProductName>
+	<ProductPrice>1000.0</ProductPrice>
+	<ProductQuantity>4</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>6</CategoryId>
+		<CategoryName>Cosmetics</CategoryName>
+		<Company>
+			<CompanyName>MedDep</CompanyName>
+			<CompanyAddress>USA</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="10">
+	<ProductName>Cream foundation</ProductName>
+	<ProductPrice>1000.0</ProductPrice>
+	<ProductQuantity>6</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>7</CategoryId>
+		<CategoryName>Cosmetics</CategoryName>
+		<Company>
+			<CompanyName>Sc Liv Med</CompanyName>
+			<CompanyAddress>Romania</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="11">
+	<ProductName>Dental articulator</ProductName>
+	<ProductPrice>3.0</ProductPrice>
+	<ProductQuantity>3</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>9</CategoryId>
+		<CategoryName>Medical-Devices</CategoryName>
+		<Company>
+			<CompanyName>Sc Liv Med</CompanyName>
+			<CompanyAddress>Romania</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="12">
+	<ProductName>Magnesium 300</ProductName>
+	<ProductPrice>3.4</ProductPrice>
+	<ProductQuantity>50</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>12</CategoryId>
+		<CategoryName>Vitamin-Supplements</CategoryName>
+		<Company>
+			<CompanyName>AC Helcor</CompanyName>
+			<CompanyAddress>Germany</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="13">
+	<ProductName>Magnesium 300</ProductName>
+	<ProductPrice>3.4</ProductPrice>
+	<ProductQuantity>3</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>10</CategoryId>
+		<CategoryName>Vitamin-Supplements</CategoryName>
+		<Company>
+			<CompanyName>Troyapharm</CompanyName>
+			<CompanyAddress>UK</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="14">
+	<ProductName>Massage Equipment</ProductName>
+	<ProductPrice>3.0</ProductPrice>
+	<ProductQuantity>4</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>9</CategoryId>
+		<CategoryName>Medical-Devices</CategoryName>
+		<Company>
+			<CompanyName>Sc Liv Med</CompanyName>
+			<CompanyAddress>Romania</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="15">
+	<ProductName>Milk&amp;Sugar Protein</ProductName>
+	<ProductPrice>2.0</ProductPrice>
+	<ProductQuantity>15</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>10</CategoryId>
+		<CategoryName>Vitamin-Supplements</CategoryName>
+		<Company>
+			<CompanyName>Troyapharm</CompanyName>
+			<CompanyAddress>UK</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ <Product id="16">
+	<ProductName>Milk&amp;Sugar Supliments</ProductName>
+	<ProductPrice>100.0</ProductPrice>
+	<ProductQuantity>2</ProductQuantity>
+	<ExpDate>2017-11-11</ExpDate>
+	<Category>
+		<CategoryId>12</CategoryId>
+		<CategoryName>Vitamin-Supplements</CategoryName>
+		<Company>
+			<CompanyName>AC Helcor</CompanyName>
+			<CompanyAddress>Germany</CompanyAddress>
+		</Company>
+	</Category>
+ </Product>
+ </Products>

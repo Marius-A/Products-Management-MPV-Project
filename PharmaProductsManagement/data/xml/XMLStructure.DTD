@@ -1,0 +1,16 @@
+<!ELEMENT  Products (Product)+>
+
+<!ELEMENT Product (ProductName,ProductPrice,ProductQuantity,ExpDate,Category)>
+<!ATTLIST Product id CDATA #IMPLIED>
+
+<!ELEMENT Category (CategoryId,CategoryName,Company)>
+<!ELEMENT Company (CompanyName,CompanyAddress)>
+   
+<!ELEMENT ProductName (#PCDATA)>
+<!ELEMENT ProductPrice (#PCDATA)>
+<!ELEMENT ProductQuantity (#PCDATA)>
+<!ELEMENT CategoryId (#PCDATA)>
+<!ELEMENT CategoryName (#PCDATA)>
+<!ELEMENT CompanyName (#PCDATA)>
+<!ELEMENT CompanyAddress (#PCDATA)>
+<!ELEMENT ExpDate (#PCDATA)>
