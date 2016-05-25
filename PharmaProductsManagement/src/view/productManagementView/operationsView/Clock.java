@@ -27,9 +27,9 @@ public class Clock extends JPanel {
 					while(true){
 						Calendar cal = new GregorianCalendar();
 						
-						int year = 2016;
-						int month = 1;
-						int day = 23;
+						int year = cal.get(Calendar.YEAR);
+						int month = cal.get(Calendar.MONTH)+1;
+						int day = cal.get(Calendar.DAY_OF_MONTH);
 						int hour = cal.get(Calendar.HOUR_OF_DAY);
 						int minute = cal.get(Calendar.MINUTE);
 						int second = cal.get(Calendar.SECOND);
