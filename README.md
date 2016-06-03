@@ -24,7 +24,12 @@ KEY feauture:
 
 * Print current inventory in HTML/PDF format using XSL transformation
 
+![alt tag](http://imgur.com/2R9dtRf)
+
 ![alt tag](http://s33.postimg.org/6jt81divz/drag_and_drop.png)
+
 ![alt tag](http://s33.postimg.org/k7clvg067/main_img.png)
-![alt tag](http://s33.postimg.org/t7rcxelen/pdf_html.png)
+
 ![alt tag](http://s33.postimg.org/e6gc814v3/print.png)
+
+![alt tag](http://s33.postimg.org/t7rcxelen/pdf_html.png)
