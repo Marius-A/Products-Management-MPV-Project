@@ -5,6 +5,7 @@
 >This is a simple Java application that helps managing pharmaceutical products.
 
 KEY feauture:
+
 * Add/delete/update products from the database;
 
 * Order products in diffrent ways
