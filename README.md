@@ -24,7 +24,10 @@ KEY feauture:
 
 * Print current inventory in HTML/PDF format using XSL transformation
 
-![alt tag](http://imgur.com/2R9dtRf)
+
+>You can find database SQL scipt [here](https://bitbucket.org/marius_iliescu/prodmanagement/src/adb6563a50ad356f0832b9366a4659fd287c75f6/PharmaProductsManagement/data/sql/PharmaProductManagementENScript.sql?at=master&fileviewer=file-view-default)
+
+![alt tag](http://s33.postimg.org/6goaggwbj/login.png)
 
 ![alt tag](http://s33.postimg.org/6jt81divz/drag_and_drop.png)
 
