@@ -6,23 +6,23 @@
 
 KEY feauture:
 
-* Add/delete/update products from the database;
+* **Add/delete/update** products from the database;
 
-* Order products in diffrent ways
+* **Order** products in diffrent ways
 
-* Search products by name,category , id or by manufacturing company;
+* **Search** products by name,category , id or by manufacturing company;
 
-* Filter by category , price stock availability , expiration date;
+* **Filter** by category , price stock availability , expiration date;
 
-* Change UI Look and feel;
+* Change **UI Look and feel**;
 
-* Drag and Drop products from an XML file directly to database
+* **Drag and Drop** products from an XML file directly to database
 
-* Undo and Redo 
+* **Undo** and **Redo** 
 
-* Autocomplete fields
+* **Autocomplete** fields
 
-* Print current inventory in HTML/PDF format using XSL transformation
+* Print current inventory in **HTML/PDF** format using **XSL** transformation
 
 
 >You can find database SQL scipt [here](https://bitbucket.org/marius_iliescu/prodmanagement/src/adb6563a50ad356f0832b9366a4659fd287c75f6/PharmaProductsManagement/data/sql/PharmaProductManagementENScript.sql?at=master&fileviewer=file-view-default)
